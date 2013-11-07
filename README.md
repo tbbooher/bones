@@ -1,5 +1,5 @@
-# Bones
-__A Lightweight Wordpress Development Theme__
+# CFA Corporate
+__A Wordpress Theme for CrossFit Adaptation's Corporate Program__
 
 Bones is designed to make the life of developers easier. It's built
 using HTML5 & has a strong semantic foundation. It was updated recently

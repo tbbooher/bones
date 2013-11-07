@@ -24,6 +24,7 @@ local.properties
 .cproject
 .buildpath
 nbproject/
+.idea/
 
 ############
 ## OSes
@@ -51,5 +52,3 @@ tmp/
 temp/
 ._*
 .Trashes
-
-.svn
